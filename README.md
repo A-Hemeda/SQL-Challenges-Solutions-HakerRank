@@ -1,11 +1,5 @@
-![GitHub](https://img.shields.io/github/license/Thomas-George-T/HackerRank-SQL-Challenges-Solutions?style=flat)
-![GitHub top language](https://img.shields.io/github/languages/top/Thomas-George-T/HackerRank-SQL-Challenges-Solutions?style=flat)
-![GitHub last commit](https://img.shields.io/github/last-commit/Thomas-George-T/HackerRank-SQL-Challenges-Solutions?style=flat)
-![ViewCount](https://views.whatilearened.today/views/github/Thomas-George-T/HackerRank-SQL-Challenges-Solutions.svg?cache=remove)
-
 <p align="center">  
 	<br>
-	<a href="https://www.hackerrank.com/Thomas_George_T">
         <img height=100 src="https://hrcdn.net/community-frontend/assets/brand/logo-new-white-green-a5cb16e0ae.svg"> 
     </a>
     <br>
@@ -102,9 +96,3 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 - [Instant SQL Formatter](http://www.dpriver.com/pp/sqlformat.htm)
 - [Variables in MySQL](https://stackoverflow.com/a/11754790)
 - [Median in MySQL](https://stackoverflow.com/a/7263925)
-
-## Features & Mentions
-This project was featured in [laptrinhx](https://laptrinhx.com/the-solutions-of-all-sql-hackerrank-challenges-executed-on-mysql-environment-545160427/). Thank you for the listing!
-
-## License
-This repository is licensed under MIT License - see [License](LICENSE.md) for more details
