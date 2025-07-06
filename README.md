@@ -11,6 +11,7 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 
 # Domains
 
+
 ## Basic Select Challenges
 
 | Number | Challenges | Solutions |
@@ -36,7 +37,8 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 | 19| [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem) | [SQL](Basic%20Select/Employee-Names.sql)
 | 20| [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem) | [SQL](Basic%20Select/Employee-Salaries.sql)
 
-### Advanced Select Challenges
+
+## Advanced Select Challenges
 
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
@@ -47,8 +49,7 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 | 5 |[New Companies](https://www.hackerrank.com/challenges/the-company/problem) | [SQL](Advanced%20Select/New%20Companies.sql) |
 
 
-
-### Aggregation Challenges
+## Aggregation Challenges
 
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
