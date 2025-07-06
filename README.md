@@ -11,7 +11,7 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 
 ## Domains
 
-### Basic Select Challenges
+## Basic Select Challenges
 
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
