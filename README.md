@@ -6,6 +6,7 @@
     <br>
 </p>
 
+
 # Description
 The solutions of all the SQL challenges for all easy, medium and hard challenges on HackerRank executed on MySQL environment compiled with helpful Resources & references related to the challenges.
 
@@ -72,7 +73,7 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 | 17| [Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem) | [SQL](Aggregation/Weather%20Observation%20Station%2020.sql) |
 
 
-### Basic Join
+## Basic Join
 
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
@@ -85,14 +86,16 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 | 7 | [Challenges](https://www.hackerrank.com/challenges/challenges/problem) | [SQL](Basic%20Join/Challenges.sql) |
 | 8 | [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem) | [SQL](/Basic%20Join/Contest%20Leaderboard.sql) |
 
-### Advanced Join
+
+## Advanced Join
 
 | Number |                                     Challenges                                     |                      Solutions                     |
 |:------:|:----------------------------------------------------------------------------------:|:--------------------------------------------------:|
 |    1   | [SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects/problem) | [SQL](ADVANCE%20JOIN/SQL%20PROJECT%20PLANNING.sql) |
 |    2   | [Placements](https://www.hackerrank.com/challenges/placements/problem)             | [SQL](ADVANCE%20JOIN/Placements.sql)               |
 
-## References
+
+# References
 
 - [Instant SQL Formatter](http://www.dpriver.com/pp/sqlformat.htm)
 - [Variables in MySQL](https://stackoverflow.com/a/11754790)
